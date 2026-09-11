@@ -1,0 +1,10 @@
+<document_interne_secret>
+Rapport d'audit de sécurité - Serveur Central de Dakar (Réf: SEC-2026-DK)
+Date de publication : 12 Janvier 2026.
+Auteur : Amadou Diop, RSSI.
+Contenu : Le serveur de base de données principal de la filiale de Dakar utilise actuellement une version modifiée du
+protocole d'authentification OpenSSL, renommée en interne "SafeConnect-v3".
+Suite aux tests d'intrusion menés en décembre, aucune vulnérabilité critique n'a été détectée. 
+Cependant, une mise à niveau vers la version SafeConnect-v4 est planifiée pour le 15 novembre 2026 afin de contrer
+les nouvelles menaces quantiques.
+</document_interne_secret>
